@@ -1,5 +1,4 @@
 from tkinter import *
-import sqlite3
 from tkinter import *
 from tkcalendar import Calendar
 from datetime import datetime
